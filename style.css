@@ -16,7 +16,7 @@ html, body{
 #top{
 	min-height: 60vh;
 	width: 100%;
-	background-image: url(images/img1.jpg);
+	background-image: url(img1.jpg);
 	background-size: cover;
 	background-position: 50% 40%;
 }
@@ -82,7 +82,7 @@ html, body{
 #btwo{
 	min-height: inherit;
 	width: 25%;
-	background-image: url(images/img2.png);
+	background-image: url(img2.png);
 	background-size: cover;
 	background-position: center;  
 }
@@ -104,7 +104,7 @@ html, body{
 #bthreebottom{
 	min-height: 20vh;
 	width: 100%;
-	background-image: url(images/img3.jpg);
+	background-image: url(img3.jpg);
 	background-size: cover;
 	background-position: center;
 }
