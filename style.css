@@ -132,7 +132,7 @@ html, body{
 	font-style: 12px;
 }
 
-@media (max-width: 500px){
+@media (max-width: 650px){
 	#bottom{
 		min-height: 20vh;
 	}
